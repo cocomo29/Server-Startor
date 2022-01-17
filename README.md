@@ -16,6 +16,6 @@ Just copy your bot's [token], paste it in the last line of [bot.py] and run the 
 ## Why does my bot go offline?
 You have to host tour bot in order for it to run 24/7. [This is a good guide on how to do that.]
 
-[This is a good guide on how to do that]: https://www.techwithtim.net/tutorials/discord-py/hosting-a-discord-bot-for-free/
+[This is a good guide on how to do that.]: https://www.techwithtim.net/tutorials/discord-py/hosting-a-discord-bot-for-free/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT) <a href=https://github.com/cocomo29><img src="https://img.shields.io/badge/-Follow%20me-purple" alt="github.com/cocomo29">
