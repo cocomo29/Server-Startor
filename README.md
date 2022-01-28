@@ -1,29 +1,21 @@
 <p align="center" > 
-    <a href="" target="_blank"> <img height="129px"src="https://media.discordapp.net/attachments/818827898345095168/936692157442555994/nubcounter.png?width=532&height=566"/> </a>
+    <a href="" target="_blank"> <img height="129px"src="https://media.discordapp.net/attachments/818827898345095168/932676809907113984/startor.png"/> </a>
 <p/>
 
-<p align="center">A simple react native app that counts number on pressing a button and also resets that counter.</p>
+<h1 align="center">Startor</h1>
 
-## Run commands:
-Using node: &emsp;
-``` npm start```</br></br>
-Using expo:&emsp;
-```expo start```</br>
+## How does the bot work?
+Invite the bot and mention it, it will delete all the previous channels/categories and make new ones.
 
-<p align="center" > 
-    <a><b>ScreenShot<b></a> </br>
-      < placeholder for ss >
-</p>
-    
-    
-## Clone this repo
-``` git clone https://github.com/blurryface92/react-native.git```
+## How to use the code?
+Just copy your bot's [token], paste it in the last line of [bot.py] and run the code. Your bot will stay online as long as the execution terminal isnt closed. If you want the bot to send the rules, you can edit them in line 6 of [bot.py].
 
-## Why Nub Counter??
-I originally called it a counter but when I sent the ss of app to my [friend](github.com/cocomo29) he told me he did it in 1st semester and called me nub, hence nub counter :pepo_cry:
+[token]:https://docs.discordbotstudio.org/setting-up-dbs/finding-your-bot-token#:~:text=To%20do%20so%20visit%20the,.com%2Fdevelopers%2Fapplications.&text=Once%20there%2C%20click%20on%20the,the%20token%20to%20your%20clipboard.
+[bot.py]:https://github.com/cocomo29/Server-Startor/blob/main/bot.py
 
-        
+## Why does my bot go offline?
+You have to host tour bot in order for it to run 24/7. [This is a good guide on how to do that.]
 
-        
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-        <a href=https://github.com/blurryface92><img src="https://img.shields.io/badge/-Follow%20me-blue" alt="github.com/blurryface92">
+[This is a good guide on how to do that.]: https://www.techwithtim.net/tutorials/discord-py/hosting-a-discord-bot-for-free/
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT) <a href=https://github.com/cocomo29><img src="https://img.shields.io/badge/-Follow%20me-purple" alt="github.com/cocomo29">
